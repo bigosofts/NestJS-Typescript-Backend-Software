@@ -1,3 +1,4 @@
+## Get Request  for User Controller
 GET http://localhost:3000/users/4321/1234
 ?name=limon
 &age=30
